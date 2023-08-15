@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Shadows+Into+Light&display=swap');
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+    position: relative;
+    padding-left: 20px;
+}
+
+ul, 
+li{
+font-family: 'Shadows Into Light', cursive;
+font-size: 32px;
+}
